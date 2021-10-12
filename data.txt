@@ -1,3 +1,4 @@
-Name: Viktorija Kuneviciute
+Name: Viktorija Kun
 Age: 31
-Favorite Color: Black
+Favorite Color: Black/Green
+Course: Web Development
